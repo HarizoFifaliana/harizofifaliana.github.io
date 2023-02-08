@@ -1,0 +1,56 @@
+.titre, strong{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#persoAndContact, #diver{
+    display: inline-block;
+    position: relative;
+    top: 75px; 
+}
+
+
+#persoAndContact{
+    float: left;
+    top: 110px;
+    left: 54px;
+}
+
+#diver{
+    float: right;
+    top: -700px;
+    left: 95px; 
+}
+
+#photoCv{
+    border-radius: 100%;
+    position: relative;
+    top: 62px;
+    left: 40px;
+    height: 350px;
+    width: 350px;
+}
+
+h1{
+    font-size: 57px;
+    position: relative;
+    left: 420px;
+    top: 0px;
+}
+
+#persoAndContact img{
+    position: relative;
+    top: 20px; 
+}
+
+p, h1, li{
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: 25px;
+}
+
+li{
+    font-size: 25px;
+}
